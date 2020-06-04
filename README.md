@@ -1,4 +1,4 @@
-#Tournament Manager 2.0 Web Application
+# Tournament Manager 2.0 Web Application
 
 This repository contains code for client side of the project.
 
